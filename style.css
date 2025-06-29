@@ -1,0 +1,14 @@
+.container{
+    height: 500px;
+    width: 400px;
+    background-color: lightcyan;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+button{
+    width: 60px;
+    padding: 5px;
+}

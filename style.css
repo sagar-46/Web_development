@@ -1,7 +1,16 @@
+body{
+    background-image: url(nature.jpg);
+    background-size: cover;
+}
 .container{
     height: 500px;
     width: 400px;
     background-color: lightcyan;
+    padding: 10px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
 }
 .form{
     display: flex;
